@@ -1,2 +1,3 @@
-# w3c-glossary
-Glossary for personal use
+# xfq's Glossary
+
+Web-related Glossary for personal use. The terms are not categorized.
